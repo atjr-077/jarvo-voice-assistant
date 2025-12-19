@@ -1,0 +1,407 @@
+2025-07-18 14:20:05 | Command: open notepad.exe | Action: open_app_failed: [WinError 2] The system cannot find the file specified
+2025-09-23 22:46:00 | Command:  | Action: unknown_action
+2025-09-23 22:46:09 | Command:  | Action: no_input
+2025-09-23 22:46:13 | Command:  | Action: no_input
+2025-09-23 22:46:22 | Command:  | Action: no_input
+2025-09-23 22:46:29 | Command:  | Action: no_input
+2025-09-23 22:46:33 | Command:  | Action: no_input
+2025-09-23 22:46:39 | Command: cal do jarurat hai per | Action: unknown_action
+2025-09-23 22:46:43 | Command:  | Action: no_input
+2025-09-23 22:46:49 | Command:  | Action: no_input
+2025-09-23 22:46:52 | Command:  | Action: no_input
+2025-09-23 22:46:59 | Command:  | Action: no_input
+2025-09-23 22:47:18 | Command:  | Action: no_input
+2025-09-24 22:49:27 | Command:  | Action: no_input
+2025-09-24 22:49:35 | Command:  | Action: no_input
+2025-09-24 22:49:40 | Command:  | Action: no_input
+2025-09-24 22:49:45 | Command:  | Action: no_input
+2025-09-24 22:49:52 | Command: bartan kahan hai jaane wala | Action: unknown_action
+2025-09-24 22:49:56 | Command:  | Action: no_input
+2025-09-24 22:50:03 | Command:  | Action: no_input
+2025-09-24 22:50:09 | Command:  | Action: no_input
+2025-09-24 22:50:13 | Command:  | Action: no_input
+2025-09-24 22:50:16 | Command:  | Action: no_input
+2025-09-24 22:50:23 | Command:  | Action: no_input
+2025-09-24 22:50:30 | Command:  | Action: no_input
+2025-09-24 22:50:35 | Command:  | Action: no_input
+2025-09-24 22:50:43 | Command:  | Action: no_input
+2025-09-24 22:50:47 | Command:  | Action: no_input
+2025-09-24 22:50:52 | Command:  | Action: no_input
+2025-09-24 22:51:00 | Command:  | Action: no_input
+2025-09-24 22:51:11 | Command:  | Action: unknown_action
+2025-09-24 22:51:20 | Command:  | Action: no_input
+2025-09-24 22:51:33 | Command:  | Action: no_input
+2025-09-24 22:51:37 | Command:  | Action: no_input
+2025-09-24 22:51:43 | Command:  | Action: no_input
+2025-09-24 22:51:49 | Command:  | Action: no_input
+2025-09-24 22:52:01 | Command:  | Action: unknown_action
+2025-09-24 22:52:10 | Command:  | Action: unknown_action
+2025-09-24 22:52:21 | Command: nahin to usmein phone number se link tha vah | Action: unknown_action
+2025-09-24 22:52:26 | Command: verification baji | Action: unknown_action
+2025-09-24 22:52:30 | Command: wala hi dale | Action: unknown_action
+2025-09-24 22:52:35 | Command:  | Action: no_input
+2025-09-24 22:52:45 | Command:  | Action: no_input
+2025-09-24 22:52:52 | Command: nahin to uski jarurat nahin ho jaega | Action: unknown_action
+2025-09-24 22:53:06 | Command:  | Action: no_input
+2025-09-24 22:53:13 | Command:  | Action: no_input
+2025-09-24 22:53:17 | Command:  | Action: no_input
+2025-09-24 22:53:23 | Command:  | Action: no_input
+2025-09-24 22:53:29 | Command:  | Action: no_input
+2025-09-24 22:53:34 | Command:  | Action: no_input
+2025-09-24 22:53:41 | Command:  | Action: no_input
+2025-09-24 22:53:48 | Command:  | Action: no_input
+2025-09-24 22:53:57 | Command: subah gaye the ki nahin the | Action: tell_time
+2025-09-24 22:54:04 | Command:  | Action: no_input
+2025-09-24 22:54:13 | Command:  | Action: no_input
+2025-09-24 22:54:21 | Command: nahin to jo jaat hota hai | Action: unknown_action
+2025-09-24 22:54:26 | Command:  | Action: no_input
+2025-09-24 22:54:33 | Command:  | Action: no_input
+2025-09-24 22:54:39 | Command: vrat hai aap log | Action: unknown_action
+2025-09-24 22:54:46 | Command:  | Action: no_input
+2025-09-24 22:54:52 | Command:  | Action: no_input
+2025-09-24 22:54:57 | Command:  | Action: no_input
+2025-09-24 22:55:06 | Command: kapda | Action: unknown_action
+2025-09-24 22:55:13 | Command: didi bada | Action: unknown_action
+2025-09-24 22:55:19 | Command:  | Action: no_input
+2025-09-24 22:55:24 | Command:  | Action: no_input
+2025-09-24 22:55:34 | Command: kuchh nahin mere ko paisa bhejo | Action: unknown_action
+2025-09-24 22:55:39 | Command:  | Action: no_input
+2025-09-24 22:55:45 | Command:  | Action: no_input
+2025-09-24 22:55:51 | Command:  | Action: no_input
+2025-09-24 22:56:04 | Command:  | Action: no_input
+2025-09-24 22:56:12 | Command:  | Action: no_input
+2025-09-24 22:56:21 | Command:  | Action: no_input
+2025-09-24 22:56:27 | Command:  | Action: no_input
+2025-09-24 22:56:35 | Command:  | Action: no_input
+2025-09-24 22:56:42 | Command:  | Action: no_input
+2025-09-24 22:56:54 | Command:  | Action: no_input
+2025-09-24 22:56:57 | Command:  | Action: no_input
+2025-09-24 22:57:05 | Command:  | Action: no_input
+2025-09-24 22:57:20 | Command:  | Action: no_input
+2025-09-24 22:57:37 | Command:  | Action: no_input
+2025-09-24 22:57:45 | Command:  | Action: no_input
+2025-09-24 22:57:52 | Command:  | Action: no_input
+2025-09-24 22:58:00 | Command:  | Action: no_input
+2025-09-24 22:58:13 | Command:  | Action: no_input
+2025-09-24 23:01:49 | Command:  | Action: no_input
+2025-09-24 23:02:11 | Command:  | Action: no_input
+2025-09-24 23:02:15 | Command:  | Action: no_input
+2025-09-24 23:02:19 | Command:  | Action: no_input
+2025-09-24 23:02:23 | Command:  | Action: no_input
+2025-09-24 23:02:32 | Command:  | Action: no_input
+2025-09-24 23:02:38 | Command:  | Action: no_input
+2025-09-24 23:06:16 | Command:  | Action: no_input
+2025-09-24 23:06:17 | Command:  | Action: no_input
+2025-09-24 23:06:17 | Command:  | Action: no_input
+2025-09-24 23:06:17 | Command:  | Action: no_input
+2025-09-24 23:06:18 | Command:  | Action: no_input
+2025-09-24 23:06:18 | Command:  | Action: no_input
+2025-09-24 23:06:18 | Command:  | Action: no_input
+2025-09-24 23:06:18 | Command:  | Action: no_input
+2025-09-24 23:06:20 | Command:  | Action: no_input
+2025-09-24 23:06:21 | Command:  | Action: no_input
+2025-09-24 23:06:22 | Command:  | Action: no_input
+2025-09-24 23:06:23 | Command:  | Action: no_input
+2025-09-24 23:06:24 | Command:  | Action: no_input
+2025-09-24 23:06:25 | Command:  | Action: no_input
+2025-09-24 23:06:26 | Command:  | Action: no_input
+2025-09-24 23:06:27 | Command:  | Action: no_input
+2025-09-24 23:06:29 | Command:  | Action: no_input
+2025-09-24 23:06:31 | Command:  | Action: no_input
+2025-09-24 23:06:31 | Command:  | Action: no_input
+2025-09-24 23:06:32 | Command:  | Action: no_input
+2025-09-24 23:06:34 | Command:  | Action: no_input
+2025-09-24 23:06:35 | Command:  | Action: no_input
+2025-09-24 23:06:37 | Command:  | Action: no_input
+2025-09-24 23:06:38 | Command:  | Action: no_input
+2025-09-24 23:06:39 | Command:  | Action: no_input
+2025-09-24 23:06:41 | Command:  | Action: no_input
+2025-09-24 23:06:42 | Command:  | Action: no_input
+2025-09-24 23:06:43 | Command:  | Action: no_input
+2025-09-24 23:06:44 | Command:  | Action: no_input
+2025-09-24 23:06:46 | Command:  | Action: no_input
+2025-09-24 23:06:47 | Command:  | Action: no_input
+2025-09-24 23:06:49 | Command:  | Action: no_input
+2025-09-24 23:06:50 | Command:  | Action: no_input
+2025-09-24 23:06:50 | Command:  | Action: no_input
+2025-09-24 23:06:51 | Command:  | Action: no_input
+2025-09-24 23:06:53 | Command:  | Action: no_input
+2025-09-24 23:06:54 | Command:  | Action: no_input
+2025-09-24 23:06:57 | Command:  | Action: no_input
+2025-09-24 23:06:59 | Command:  | Action: no_input
+2025-09-24 23:07:00 | Command:  | Action: no_input
+2025-09-24 23:07:01 | Command:  | Action: no_input
+2025-09-24 23:07:02 | Command:  | Action: no_input
+2025-09-24 23:07:04 | Command:  | Action: no_input
+2025-09-24 23:07:05 | Command:  | Action: no_input
+2025-09-24 23:07:08 | Command:  | Action: no_input
+2025-09-24 23:07:20 | Command:  | Action: no_input
+2025-09-24 23:07:22 | Command:  | Action: no_input
+2025-09-24 23:07:23 | Command:  | Action: no_input
+2025-09-24 23:07:24 | Command:  | Action: no_input
+2025-09-24 23:07:26 | Command:  | Action: no_input
+2025-09-24 23:07:27 | Command:  | Action: no_input
+2025-09-24 23:07:33 | Command:  | Action: no_input
+2025-09-24 23:07:35 | Command:  | Action: no_input
+2025-09-24 23:07:36 | Command:  | Action: no_input
+2025-09-24 23:07:42 | Command:  | Action: no_input
+2025-09-24 23:07:43 | Command:  | Action: no_input
+2025-09-24 23:07:45 | Command:  | Action: no_input
+2025-09-24 23:07:46 | Command:  | Action: no_input
+2025-09-24 23:07:47 | Command:  | Action: no_input
+2025-09-24 23:07:49 | Command:  | Action: no_input
+2025-09-24 23:07:51 | Command:  | Action: no_input
+2025-09-24 23:07:51 | Command:  | Action: no_input
+2025-09-24 23:07:53 | Command:  | Action: no_input
+2025-09-24 23:07:54 | Command:  | Action: no_input
+2025-09-24 23:07:55 | Command:  | Action: no_input
+2025-09-24 23:07:57 | Command:  | Action: no_input
+2025-09-24 23:07:58 | Command:  | Action: no_input
+2025-09-24 23:07:59 | Command:  | Action: no_input
+2025-09-24 23:08:01 | Command:  | Action: no_input
+2025-09-24 23:08:02 | Command:  | Action: no_input
+2025-09-24 23:08:03 | Command:  | Action: no_input
+2025-09-24 23:08:04 | Command:  | Action: no_input
+2025-09-24 23:08:06 | Command:  | Action: no_input
+2025-09-24 23:08:07 | Command:  | Action: no_input
+2025-09-24 23:08:09 | Command:  | Action: no_input
+2025-09-24 23:08:10 | Command:  | Action: no_input
+2025-09-24 23:08:10 | Command:  | Action: no_input
+2025-09-24 23:08:12 | Command:  | Action: no_input
+2025-09-24 23:08:13 | Command:  | Action: no_input
+2025-09-24 23:08:16 | Command:  | Action: no_input
+2025-09-24 23:08:18 | Command:  | Action: no_input
+2025-09-24 23:08:19 | Command:  | Action: no_input
+2025-09-24 23:08:20 | Command:  | Action: no_input
+2025-09-24 23:08:22 | Command:  | Action: no_input
+2025-09-24 23:08:23 | Command:  | Action: no_input
+2025-09-24 23:08:25 | Command:  | Action: no_input
+2025-09-24 23:09:07 | Command:  | Action: no_input
+2025-09-24 23:09:08 | Command:  | Action: no_input
+2025-09-24 23:09:08 | Command:  | Action: no_input
+2025-09-24 23:09:08 | Command:  | Action: no_input
+2025-09-24 23:09:10 | Command:  | Action: no_input
+2025-09-24 23:09:12 | Command:  | Action: no_input
+2025-09-24 23:09:13 | Command:  | Action: no_input
+2025-09-24 23:09:14 | Command:  | Action: no_input
+2025-09-24 23:09:15 | Command:  | Action: no_input
+2025-09-24 23:09:16 | Command:  | Action: no_input
+2025-09-24 23:09:17 | Command:  | Action: no_input
+2025-09-24 23:09:19 | Command:  | Action: no_input
+2025-09-24 23:09:20 | Command:  | Action: no_input
+2025-09-24 23:09:23 | Command:  | Action: no_input
+2025-09-24 23:09:24 | Command:  | Action: no_input
+2025-09-24 23:09:26 | Command:  | Action: no_input
+2025-09-24 23:09:27 | Command:  | Action: no_input
+2025-09-24 23:09:29 | Command:  | Action: no_input
+2025-09-24 23:09:31 | Command:  | Action: no_input
+2025-09-24 23:09:32 | Command:  | Action: no_input
+2025-09-24 23:09:33 | Command:  | Action: no_input
+2025-09-24 23:09:34 | Command:  | Action: no_input
+2025-09-24 23:09:35 | Command:  | Action: no_input
+2025-09-24 23:09:36 | Command:  | Action: no_input
+2025-09-24 23:09:38 | Command:  | Action: no_input
+2025-09-24 23:09:39 | Command:  | Action: no_input
+2025-09-24 23:09:41 | Command:  | Action: no_input
+2025-09-24 23:09:42 | Command:  | Action: no_input
+2025-09-24 23:37:50 | Command: open chrome.exe | Action: open_app_not_found
+2025-09-24 23:46:21 | Command: open Google | Action: open_app_not_found
+2025-09-24 23:55:38 | Command: open chrome | Action: open_app_not_found
+2025-09-24 23:57:07 | Command: open chrome | Action: open_app_browser_path
+2025-09-25 20:44:34 | Command:  | Action: no_input
+2025-09-25 21:18:13 | Command: open notepad | Action: open_app
+2025-09-25 21:18:13 | Command: open notepad | Action: open_app
+2025-09-25 21:18:19 | Command: write down a line of | Action: decrease_volume
+2025-09-25 21:18:26 | Command: None | Action: no_input
+2025-09-25 21:18:29 | Command: stop | Action: unknown_action
+2025-09-25 21:18:36 | Command: None | Action: no_input
+2025-09-25 21:18:41 | Command: None | Action: no_input
+2025-09-25 21:18:49 | Command: None | Action: no_input
+2025-09-25 21:18:55 | Command: None | Action: no_input
+2025-09-25 21:19:03 | Command: None | Action: no_input
+2025-09-25 21:19:10 | Command: None | Action: no_input
+2025-09-25 21:19:18 | Command: None | Action: no_input
+2025-09-25 21:19:31 | Command: None | Action: no_input
+2025-09-25 21:19:35 | Command: bhag bhosdi | Action: unknown_action
+2025-09-25 21:19:39 | Command: None | Action: no_input
+2025-09-25 21:19:45 | Command: band kar do usko | Action: unknown_action
+2025-09-25 21:19:50 | Command: yah kah raha hai | Action: unknown_action
+2025-09-25 21:19:58 | Command: tera photo dikha do | Action: unknown_action
+2025-09-25 21:20:11 | Command: None | Action: no_input
+2025-09-25 21:20:17 | Command: None | Action: no_input
+2025-09-25 21:20:21 | Command: None | Action: no_input
+2025-09-25 21:20:27 | Command: None | Action: no_input
+2025-09-25 21:20:31 | Command: chhotu se baat karte rahte ho | Action: unknown_action
+2025-09-25 21:20:36 | Command: open chrome and search for youtube | Action: unknown_action
+2025-09-25 21:20:40 | Command: None | Action: no_input
+2025-09-25 21:20:44 | Command: open chrome search for youtube | Action: open_app_not_found
+2025-09-25 21:20:44 | Command: open chrome search for youtube | Action: open_app
+2025-09-25 21:20:50 | Command: None | Action: no_input
+2025-09-25 21:20:56 | Command: None | Action: no_input
+2025-09-25 21:21:06 | Command: generate a code for cli to do app in python | Action: set_timer
+2025-09-25 21:21:11 | Command: None | Action: no_input
+2025-09-25 21:21:25 | Command: None | Action: no_input
+2025-09-25 21:21:29 | Command: None | Action: no_input
+2025-09-25 21:21:35 | Command: None | Action: no_input
+2025-09-25 21:21:42 | Command: None | Action: no_input
+2025-09-25 21:21:48 | Command: None | Action: no_input
+2025-09-25 21:21:55 | Command: None | Action: no_input
+2025-09-25 21:22:01 | Command: None | Action: no_input
+2025-09-25 21:22:07 | Command: exit | Action: close_app
+2025-09-25 21:22:13 | Command: None | Action: no_input
+2025-09-25 21:22:19 | Command: None | Action: no_input
+2025-09-25 21:22:24 | Command: None | Action: no_input
+2025-09-25 21:22:35 | Command: None | Action: no_input
+2025-09-25 21:22:39 | Command: None | Action: no_input
+2025-09-25 21:22:44 | Command: None | Action: no_input
+2025-09-25 23:27:29 | Command: write a script to scrap headline | Action: tell_joke
+2025-09-25 23:27:30 | Command: None | Action: no_input
+2025-09-25 23:27:41 | Command: make a program that sorts a list of unique quicksort | Action: tell_joke
+2025-09-25 23:27:45 | Command: None | Action: no_input
+2025-09-25 23:27:51 | Command: None | Action: no_input
+2025-09-25 23:27:55 | Command: None | Action: no_input
+2025-09-25 23:28:02 | Command: None | Action: no_input
+2025-09-25 23:28:11 | Command: None | Action: no_input
+2025-09-25 23:28:18 | Command: None | Action: no_input
+2025-09-25 23:28:23 | Command: stop | Action: stop_assistant
+2025-09-25 23:54:17 | Command: generate a code for cli | Action: tell_joke
+2025-09-25 23:54:18 | Command: None | Action: no_input
+2025-09-25 23:54:30 | Command: None | Action: no_input
+2025-09-25 23:54:36 | Command: None | Action: no_input
+2025-09-25 23:54:40 | Command: None | Action: no_input
+2025-09-25 23:54:46 | Command: None | Action: no_input
+2025-09-25 23:54:52 | Command: None | Action: no_input
+2025-09-25 23:54:58 | Command: None | Action: no_input
+2025-09-25 23:55:02 | Command: None | Action: no_input
+2025-09-25 23:55:11 | Command: None | Action: no_input
+2025-09-25 23:55:16 | Command: generate a code for cli | Action: tell_joke
+2025-09-25 23:55:21 | Command: None | Action: no_input
+2025-09-25 23:55:29 | Command: None | Action: no_input
+2025-09-25 23:55:33 | Command: write a code for ciaz | Action: tell_joke
+2025-09-25 23:55:39 | Command: None | Action: no_input
+2025-09-26 00:13:38 | Command: python | Action: unknown_action
+2025-09-26 00:13:43 | Command: None | Action: no_input
+2025-09-26 00:13:50 | Command: python you should use python to create cli | Action: generate_code
+2025-09-26 00:13:57 | Command: None | Action: no_input
+2025-09-26 00:14:00 | Command: None | Action: no_input
+2025-09-26 00:31:58 | Command: rate code for cli | Action: generate_code
+2025-09-26 00:32:03 | Command: clr calculator | Action: unknown_action
+2025-09-26 00:32:09 | Command: None | Action: no_input
+2025-09-26 00:32:16 | Command: None | Action: no_input
+2025-09-26 00:37:27 | Command: generate code for a CLI calculator in Python saved as calc.py using argparse | Action: set_timer
+2025-09-27 10:45:03 | Command: tell_time | Action: processed
+2025-09-27 11:13:58 | Command: tell_date | Action: processed
+2025-09-28 19:21:16 | Command: tell_time | Action: processed
+2025-11-28 22:32:37 | Command: hello | Action: unknown_action
+2025-11-28 23:33:59 | Command: hello | Action: unknown_action
+2025-11-29 15:30:14 | Command: tell_time | Action: processed
+2025-11-29 20:10:34 | Command: open chrome | Action: open_app_browser_path
+2025-11-29 20:10:34 | Command: open chrome | Action: processed
+2025-11-29 20:11:15 | Command: tell_time | Action: processed
+2025-11-29 20:11:18 | Command: tell_date | Action: processed
+2025-11-29 20:20:11 | Command: open chrome | Action: open_app_browser_path
+2025-11-29 20:20:11 | Command: open chrome | Action: processed
+2025-11-29 21:44:29 | Command: increase_volume | Action: processed
+2025-11-29 21:44:32 | Command: decrease_volume | Action: processed
+2025-11-29 22:43:20 | Command: open chrome | Action: open_app_browser_path
+2025-11-29 22:43:20 | Command: open google chrome | Action: processed
+2025-12-17 23:09:44 | Command: tell_joke | Action: tell_joke
+2025-12-17 23:09:44 | Command: tell_joke | Action: processed
+2025-12-17 23:09:52 | Command: tell_time | Action: tell_time
+2025-12-17 23:09:52 | Command: tell_time | Action: processed
+2025-12-17 23:10:01 | Command: decrease_volume | Action: increase_volume
+2025-12-17 23:10:01 | Command: decrease_volume | Action: processed
+2025-12-17 23:10:03 | Command: increase_volume | Action: increase_volume
+2025-12-17 23:10:03 | Command: increase_volume | Action: processed
+2025-12-17 23:10:04 | Command: decrease_volume | Action: increase_volume
+2025-12-17 23:10:04 | Command: decrease_volume | Action: processed
+2025-12-17 23:10:05 | Command: decrease_volume | Action: increase_volume
+2025-12-17 23:10:05 | Command: decrease_volume | Action: processed
+2025-12-17 23:10:05 | Command: decrease_volume | Action: increase_volume
+2025-12-17 23:10:05 | Command: decrease_volume | Action: processed
+2025-12-17 23:10:05 | Command: decrease_volume | Action: increase_volume
+2025-12-17 23:10:05 | Command: decrease_volume | Action: processed
+2025-12-17 23:10:06 | Command: decrease_volume | Action: increase_volume
+2025-12-17 23:10:06 | Command: decrease_volume | Action: processed
+2025-12-17 23:10:06 | Command: decrease_volume | Action: increase_volume
+2025-12-17 23:10:06 | Command: decrease_volume | Action: processed
+2025-12-17 23:10:07 | Command: decrease_volume | Action: increase_volume
+2025-12-17 23:10:07 | Command: decrease_volume | Action: processed
+2025-12-17 23:10:07 | Command: decrease_volume | Action: increase_volume
+2025-12-17 23:10:07 | Command: decrease_volume | Action: processed
+2025-12-17 23:10:07 | Command: decrease_volume | Action: increase_volume
+2025-12-17 23:10:07 | Command: decrease_volume | Action: processed
+2025-12-17 23:10:07 | Command: decrease_volume | Action: increase_volume
+2025-12-17 23:10:07 | Command: decrease_volume | Action: processed
+2025-12-17 23:10:07 | Command: decrease_volume | Action: increase_volume
+2025-12-17 23:10:07 | Command: decrease_volume | Action: processed
+2025-12-17 23:10:13 | Command: take_screenshot | Action: ai_fallback
+2025-12-17 23:10:13 | Command: take_screenshot | Action: processed
+2025-12-17 23:10:18 | Command: mute_audio | Action: mute_audio
+2025-12-17 23:10:18 | Command: mute_audio | Action: processed
+2025-12-17 23:10:19 | Command: mute_audio | Action: mute_audio
+2025-12-17 23:10:19 | Command: mute_audio | Action: processed
+2025-12-17 23:10:23 | Command: get_ip | Action: ai_fallback
+2025-12-17 23:10:23 | Command: get_ip | Action: processed
+2025-12-18 23:09:22 | Command: open goggle chrome | Action: open_app
+2025-12-18 23:09:22 | Command: open chrome | Action: open_app_browser_path
+2025-12-18 23:09:22 | Command: open goggle chrome | Action: processed
+2025-12-18 23:09:33 | Command: open spotify | Action: open_app
+2025-12-18 23:09:33 | Command: open spotify | Action: open_app
+2025-12-18 23:09:33 | Command: open spotify | Action: processed
+2025-12-18 23:09:47 | Command: close spotify | Action: close_app
+2025-12-18 23:09:47 | Command: close spotify | Action: processed
+2025-12-18 23:09:53 | Command: close spotify | Action: close_app
+2025-12-18 23:09:53 | Command: close spotify | Action: processed
+2025-12-18 23:09:59 | Command: close chrome | Action: close_app
+2025-12-18 23:09:59 | Command: close chrome | Action: processed
+2025-12-18 23:10:07 | Command: open antigravity] | Action: open_app
+2025-12-18 23:10:07 | Command: open ntigrvity] | Action: open_app_not_found
+2025-12-18 23:10:07 | Command: open antigravity] | Action: processed
+2025-12-18 23:10:30 | Command: open antigravity | Action: open_app
+2025-12-18 23:10:30 | Command: open ntigrvity | Action: open_app_not_found
+2025-12-18 23:10:30 | Command: open antigravity | Action: processed
+2025-12-18 23:11:16 | Command: open command prompt | Action: open_app
+2025-12-18 23:11:16 | Command: open commnd prompt | Action: open_app_not_found
+2025-12-18 23:11:16 | Command: open command prompt | Action: processed
+2025-12-19 01:48:20 | Command: open spotify | Action: open_app
+2025-12-19 01:48:21 | Command: open spotify | Action: open_app
+2025-12-19 01:48:21 | Command: open spotify | Action: processed
+2025-12-19 17:12:39 | Command: tell_time | Action: tell_time
+2025-12-19 17:12:39 | Command: tell_time | Action: processed
+2025-12-19 17:13:04 | Command: open goggle chrome | Action: open_app
+2025-12-19 17:13:04 | Command: open chrome | Action: open_app
+2025-12-19 17:13:04 | Command: open goggle chrome | Action: processed
+2025-12-19 17:13:10 | Command: open brave | Action: open_app
+2025-12-19 17:13:10 | Command: open brve | Action: open_app_not_found
+2025-12-19 17:13:10 | Command: open brave | Action: processed
+2025-12-19 17:13:27 | Command: open brave | Action: open_app
+2025-12-19 17:13:27 | Command: open brve | Action: open_app_not_found
+2025-12-19 17:13:27 | Command: open brave | Action: processed
+2025-12-19 17:16:42 | Command: open google chrome | Action: open_app
+2025-12-19 17:16:42 | Command: open chrome | Action: open_app
+2025-12-19 17:16:42 | Command: open google chrome | Action: processed
+2025-12-19 17:24:31 | Command: open | Action: open_app
+2025-12-19 17:24:31 | Command: open  | Action: open_app_not_found
+2025-12-19 17:24:31 | Command: open | Action: processed
+2025-12-19 17:24:35 | Command: open chrome | Action: open_app
+2025-12-19 17:24:35 | Command: open chrome | Action: open_app
+2025-12-19 17:24:35 | Command: open chrome | Action: processed
+2025-12-19 18:09:26 | Command: play song | Action: ai_fallback
+2025-12-19 18:09:26 | Command: play song | Action: processed
+2025-12-19 18:09:29 | Command: play song | Action: ai_fallback
+2025-12-19 18:09:29 | Command: play song | Action: processed
+2025-12-19 18:20:19 | Command: open brave | Action: open_app
+2025-12-19 18:20:19 | Command: open brve | Action: open_app_not_found
+2025-12-19 18:20:19 | Command: open brave | Action: processed
+2025-12-19 18:20:55 | Command: play tum hi | Action: ai_fallback
+2025-12-19 18:20:55 | Command: play tum hi | Action: processed
+2025-12-19 19:41:15 | Command: open spotify | Action: open_app
+2025-12-19 19:41:15 | Command: open spotify | Action: open_app
+2025-12-19 19:41:15 | Command: open spotify | Action: processed
+2025-12-19 19:49:32 | Command: open spotify | Action: open_app
+2025-12-19 19:49:32 | Command: open spotify | Action: open_app
+2025-12-19 19:49:32 | Command: open spotify | Action: processed
+2025-12-19 23:23:32 | Command: open google chrome | Action: open_app
+2025-12-19 23:23:32 | Command: open chrome | Action: open_app_browser_path
+2025-12-19 23:23:32 | Command: open google chrome | Action: processed

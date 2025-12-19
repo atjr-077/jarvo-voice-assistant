@@ -1,0 +1,267 @@
+[
+  {
+    "command": "open google chrome",
+    "response": "Opened chrome",
+    "timestamp": "23:23:32"
+  },
+  {
+    "command": "open spotify",
+    "response": "Opened spotify",
+    "timestamp": "19:49:32"
+  },
+  {
+    "command": "open spotify",
+    "response": "Opened spotify",
+    "timestamp": "19:41:15"
+  },
+  {
+    "command": "play tum hi",
+    "response": "Okay, playing \"Tum Hi\" for you now. Enjoy the music!",
+    "timestamp": "18:20:55"
+  },
+  {
+    "command": "open brave",
+    "response": "Failed to open brve",
+    "timestamp": "18:20:19"
+  },
+  {
+    "command": "play song",
+    "response": "Sure, I can play a song for you. Which song or artist would you like to hear?",
+    "timestamp": "18:09:29"
+  },
+  {
+    "command": "play song",
+    "response": "Sure, I can play a song for you. Which song or artist would you like to hear?",
+    "timestamp": "18:09:26"
+  },
+  {
+    "command": "open chrome",
+    "response": "Opened chrome",
+    "timestamp": "17:24:35"
+  },
+  {
+    "command": "open",
+    "response": "Failed to open ",
+    "timestamp": "17:24:31"
+  },
+  {
+    "command": "open google chrome",
+    "response": "Opened chrome",
+    "timestamp": "17:16:42"
+  },
+  {
+    "command": "open brave",
+    "response": "Failed to open brve",
+    "timestamp": "17:13:27"
+  },
+  {
+    "command": "open brave",
+    "response": "Failed to open brve",
+    "timestamp": "17:13:10"
+  },
+  {
+    "command": "open goggle chrome",
+    "response": "Opened chrome",
+    "timestamp": "17:13:04"
+  },
+  {
+    "command": "tell_time",
+    "response": "Command executed successfully.",
+    "timestamp": "17:12:39"
+  },
+  {
+    "command": "open spotify",
+    "response": "Opened spotify",
+    "timestamp": "01:48:21"
+  },
+  {
+    "command": "open command prompt",
+    "response": "Failed to open commnd prompt",
+    "timestamp": "23:11:16"
+  },
+  {
+    "command": "open antigravity",
+    "response": "Failed to open ntigrvity",
+    "timestamp": "23:10:30"
+  },
+  {
+    "command": "open antigravity]",
+    "response": "Failed to open ntigrvity]",
+    "timestamp": "23:10:07"
+  },
+  {
+    "command": "close chrome",
+    "response": "Command executed successfully.",
+    "timestamp": "23:09:59"
+  },
+  {
+    "command": "close spotify",
+    "response": "Command executed successfully.",
+    "timestamp": "23:09:53"
+  },
+  {
+    "command": "close spotify",
+    "response": "Command executed successfully.",
+    "timestamp": "23:09:47"
+  },
+  {
+    "command": "open spotify",
+    "response": "Opened spotify",
+    "timestamp": "23:09:33"
+  },
+  {
+    "command": "open goggle chrome",
+    "response": "Opened chrome",
+    "timestamp": "23:09:22"
+  },
+  {
+    "command": "get_ip",
+    "response": "I can't directly fetch your IP address for you, as I don't have access to your network information. However, you can easily find it by searching \"What is my IP\" in your web browser or visiting a site like `whatismyip.com`.",
+    "timestamp": "23:10:23"
+  },
+  {
+    "command": "mute_audio",
+    "response": "Command executed successfully.",
+    "timestamp": "23:10:19"
+  },
+  {
+    "command": "mute_audio",
+    "response": "Command executed successfully.",
+    "timestamp": "23:10:18"
+  },
+  {
+    "command": "take_screenshot",
+    "response": "As a voice assistant, I can't directly take a screenshot for you. However, I can certainly provide you with instructions on how to do it on your specific device!",
+    "timestamp": "23:10:13"
+  },
+  {
+    "command": "decrease_volume",
+    "response": "Command executed successfully.",
+    "timestamp": "23:10:07"
+  },
+  {
+    "command": "decrease_volume",
+    "response": "Command executed successfully.",
+    "timestamp": "23:10:07"
+  },
+  {
+    "command": "decrease_volume",
+    "response": "Command executed successfully.",
+    "timestamp": "23:10:07"
+  },
+  {
+    "command": "decrease_volume",
+    "response": "Command executed successfully.",
+    "timestamp": "23:10:07"
+  },
+  {
+    "command": "decrease_volume",
+    "response": "Command executed successfully.",
+    "timestamp": "23:10:07"
+  },
+  {
+    "command": "decrease_volume",
+    "response": "Command executed successfully.",
+    "timestamp": "23:10:06"
+  },
+  {
+    "command": "decrease_volume",
+    "response": "Command executed successfully.",
+    "timestamp": "23:10:06"
+  },
+  {
+    "command": "decrease_volume",
+    "response": "Command executed successfully.",
+    "timestamp": "23:10:05"
+  },
+  {
+    "command": "decrease_volume",
+    "response": "Command executed successfully.",
+    "timestamp": "23:10:05"
+  },
+  {
+    "command": "decrease_volume",
+    "response": "Command executed successfully.",
+    "timestamp": "23:10:05"
+  },
+  {
+    "command": "decrease_volume",
+    "response": "Command executed successfully.",
+    "timestamp": "23:10:04"
+  },
+  {
+    "command": "increase_volume",
+    "response": "Command executed successfully.",
+    "timestamp": "23:10:03"
+  },
+  {
+    "command": "decrease_volume",
+    "response": "Command executed successfully.",
+    "timestamp": "23:10:01"
+  },
+  {
+    "command": "tell_time",
+    "response": "Command executed successfully.",
+    "timestamp": "23:09:52"
+  },
+  {
+    "command": "tell_joke",
+    "response": "Command executed successfully.",
+    "timestamp": "23:09:44"
+  },
+  {
+    "command": "open google chrome",
+    "response": "Executed: open_app",
+    "timestamp": "22:43:20"
+  },
+  {
+    "command": "decrease_volume",
+    "response": "Executed: increase_volume",
+    "timestamp": "21:44:32"
+  },
+  {
+    "command": "increase_volume",
+    "response": "Executed: increase_volume",
+    "timestamp": "21:44:29"
+  },
+  {
+    "command": "open chrome",
+    "response": "Executed: open_app",
+    "timestamp": "20:20:11"
+  },
+  {
+    "command": "tell_date",
+    "response": "Executed: tell_date",
+    "timestamp": "20:11:18"
+  },
+  {
+    "command": "tell_time",
+    "response": "Executed: tell_time",
+    "timestamp": "20:11:15"
+  },
+  {
+    "command": "open chrome",
+    "response": "Executed: open_app",
+    "timestamp": "20:10:34"
+  },
+  {
+    "command": "tell_time",
+    "response": "Executed: tell_time",
+    "timestamp": "15:30:14"
+  },
+  {
+    "command": "tell_time",
+    "response": "Executed: tell_time",
+    "timestamp": "19:21:16"
+  },
+  {
+    "command": "tell_date",
+    "response": "Executed: tell_date",
+    "timestamp": "11:13:58"
+  },
+  {
+    "command": "tell_time",
+    "response": "Executed: tell_time",
+    "timestamp": "10:45:03"
+  }
+]

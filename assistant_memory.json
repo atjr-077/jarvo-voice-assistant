@@ -1,0 +1,29 @@
+{
+  "preferences": {},
+  "interactions": [
+    {
+      "user": " I open Google Answers for YouTube.",
+      "assistant": "Could not open GoogleAnswers.exe: [WinError 2] The system cannot find the file specified"
+    },
+    {
+      "user": " Open Tel strategy search for sign",
+      "assistant": null
+    },
+    {
+      "user": " Open calculator and do",
+      "assistant": "Opening calc.exe."
+    },
+    {
+      "user": " perform 2 plus 2 on calculator",
+      "assistant": "I didn't recognize the action, so I'm searching Google for:  perform 2 plus 2 on calculator"
+    },
+    {
+      "user": " Open node pair and type what's the weather.",
+      "assistant": "Could not fetch weather for London."
+    },
+    {
+      "user": " Open Note 3 and write something.",
+      "assistant": "I didn't recognize the action, so I'm searching Google for:  Open Note 3 and write something."
+    }
+  ]
+}
